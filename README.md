@@ -74,7 +74,7 @@ npm run preview
 Référence: [exportSystem.js](file:///c:/Users/lqptop%203/Downloads/projects/QRCode/src/utils/exportSystem.js)
 
 ## Déploiement (Cloudflare Pages)
-- Pipeline CI/CD via GitHub Actions: [deploy-prod.yml](file:///c:/Users/lqptop%203/Downloads/projects/QRCode/.github/workflow/deploy-prod.yml)
+- Pipeline CI/CD via GitHub Actions: [deploy-prod.yml](file:///c:/Users/lqptop%203/Downloads/projects/QRCode/.github/workflows/deploy-prod.yml)
 - Déclenché sur `push` vers `main`
 - Utilise Node 20 et Yarn pour le build (`dist`)
 - Secrets requis:
